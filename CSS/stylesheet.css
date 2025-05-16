@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Morning Routine';
+    src: url('MorningRoutine.eot');
+    src: url('MorningRoutine.eot?#iefix') format('embedded-opentype'),
+        url('MorningRoutine.woff2') format('woff2'),
+        url('MorningRoutine.woff') format('woff'),
+        url('MorningRoutine.ttf') format('truetype'),
+        url('MorningRoutine.svg#MorningRoutine') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
